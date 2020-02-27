@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{3DECDFE0-36BC-4407-8409-0873BE6017E6}|Default">
+  <MonoDevelop.Ide.ItemProperties.Mobile.MobileSignalRChat.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0693BF99-725C-4361-BC9D-8F91B542A968" />
+  <MonoDevelop.Ide.ItemProperties.SignalRChat PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Mobile.MobileSignalRChat.Android FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MobileSignalRChat/ViewModel/ChatViewModel.cs">
+    <Files>
+      <File FileName="MobileSignalRChat/MainPage.xaml" Line="7" Column="9" IsPinned="True" />
+      <File FileName="SignalRChat/wwwroot/js/chat.js" Line="29" Column="4" />
+      <File FileName="MobileSignalRChat/Model/Message.cs" Line="17" Column="10" />
+      <File FileName="MobileSignalRChat/ViewModel/ChatViewModel.cs" Line="7" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SignalRChat" expanded="True">
+            <Node name="Mobile" expanded="True">
+              <Node name="MobileSignalRChat" expanded="True">
+                <Node name="Model" expanded="True" />
+                <Node name="ViewModel" expanded="True">
+                  <Node name="ChatViewModel.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

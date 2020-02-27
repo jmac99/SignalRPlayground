@@ -1,0 +1,12 @@
+/Users/macattack/Repos/Capstone-SER402/Tutorials/SignalR_Tutorial/SignalRChat/MobileSignalRChat/bin/Debug/netstandard2.0/MobileSignalRChat.deps.json
+/Users/macattack/Repos/Capstone-SER402/Tutorials/SignalR_Tutorial/SignalRChat/MobileSignalRChat/bin/Debug/netstandard2.0/MobileSignalRChat.dll
+/Users/macattack/Repos/Capstone-SER402/Tutorials/SignalR_Tutorial/SignalRChat/MobileSignalRChat/bin/Debug/netstandard2.0/ref/MobileSignalRChat.dll
+/Users/macattack/Repos/Capstone-SER402/Tutorials/SignalR_Tutorial/SignalRChat/MobileSignalRChat/bin/Debug/netstandard2.0/MobileSignalRChat.pdb
+/Users/macattack/Repos/Capstone-SER402/Tutorials/SignalR_Tutorial/SignalRChat/MobileSignalRChat/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/macattack/Repos/Capstone-SER402/Tutorials/SignalR_Tutorial/SignalRChat/MobileSignalRChat/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/macattack/Repos/Capstone-SER402/Tutorials/SignalR_Tutorial/SignalRChat/MobileSignalRChat/obj/Debug/netstandard2.0/MobileSignalRChat.AssemblyInfoInputs.cache
+/Users/macattack/Repos/Capstone-SER402/Tutorials/SignalR_Tutorial/SignalRChat/MobileSignalRChat/obj/Debug/netstandard2.0/MobileSignalRChat.AssemblyInfo.cs
+/Users/macattack/Repos/Capstone-SER402/Tutorials/SignalR_Tutorial/SignalRChat/MobileSignalRChat/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/macattack/Repos/Capstone-SER402/Tutorials/SignalR_Tutorial/SignalRChat/MobileSignalRChat/obj/Debug/netstandard2.0/MobileSignalRChat.dll
+/Users/macattack/Repos/Capstone-SER402/Tutorials/SignalR_Tutorial/SignalRChat/MobileSignalRChat/obj/Debug/netstandard2.0/ref/MobileSignalRChat.dll
+/Users/macattack/Repos/Capstone-SER402/Tutorials/SignalR_Tutorial/SignalRChat/MobileSignalRChat/obj/Debug/netstandard2.0/MobileSignalRChat.pdb
